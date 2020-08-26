@@ -9,5 +9,5 @@ if (mulherpodeaposentar == true || homempodeaposentar == true) {
        console.log(`${nome} pode se aposentar!`)
   } else {
        console.log(`${nome} não pode se aposentar!`)
-    // Condição 1 não passou
+    
   }
